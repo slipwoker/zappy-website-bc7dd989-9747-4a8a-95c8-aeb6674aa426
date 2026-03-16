@@ -1,57 +1,47 @@
-# קידוחי גבריאל את עדיאל — Generative Engine Optimization Map
-
-> A בנייה ותשתיות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-bc7dd989.zappy5.app
+https://example.com
 גלו שירותי קידוחי כלונסאות מקצועיים עם ייעוץ ראשוני חינם. צרו קשר עוד היום!
 
 ### שירותים
-https://-bc7dd989.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי הקידוח שלנו: כלונסאות, בדיקות קרקע, בורות ספיגה ותשתיות. שירות מקצועי ואמין.
 
 ### אודות
-https://-bc7dd989.zappy5.app/about
+https://example.com/about
 הכירו את קידוחי גבריאל את עדיאל - מומחים בקידוחי כלונסאות עם ניסיון רב שנים. ייעוץ חינם ושירות מקצועי.
 
 ### צור קשר
-https://-bc7dd989.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם קידוחי גבריאל את עדיאל לייעוץ ראשוני ללא עלות. מומחים בקידוחי כלונסאות ובדיקות קרקע.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-bc7dd989.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-bc7dd989.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-bc7dd989.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About קידוחי גבריאל את עדיאל
-קידוחי גבריאל את עדיאל is a business in the בנייה ותשתיות industry.
-
-## Target Audience
-קבלנים, חברות בנייה, לקוחות פרטיים הזקוקים לעבודות קידוח
-
-## Industry
-בנייה ותשתיות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-bc7dd989.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-bc7dd989.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
